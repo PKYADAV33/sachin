@@ -21,33 +21,34 @@ br.addheaders = [ ( 'User-agent', 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.
 br.open("https://www.facebook.com/messages/t/")
 br.geturl()
 
-print ("[+] TH3 SH1K4R1 RUL3X [+]")
-print ("[+] by S4CH1N R4JPUT [+]")
+print ("[+] RUL3X [+]")
+print ("[+] by The Kiing [+]")
 msg=str(input("Enter your Token : "))
 poct=str(input("Enter your post Link : "))
 npl=str(input(" Enter your np last line :  "))
-aa= "[[SR:) <([[) :P __ :D :|] <3 ___ SR:) :|] <3 ______________ [[ .. :|] <3 .. DushMano  :|] <3 ko ..  :|] <3 Saja  :|] <3 Dene ..  :|] <3 Kii  :|] <3 Ek ..  :|] <3 Tehjeeb  :|] <3 Haii ..  :|] <3 Merii  :|] <3 Maiin ..  :|] <3 Hath  :|] <3 Nhii ..  :|] <3 Uthata  :|] <3 bs ..  :|] <3 Najro  :|] <3 Se ..  :|] <3 Giira  :|] <3 Deta ..  :|] <3 Hu  :|] <3 ____________[[(^^^)  :|] :O ..  :|] :3 ..  :|] <3 .. (Y)"
+aa= "[[kiing:) <([[) :P __ :D :|] <3 ___ kiing:) :|] <3 ______________ [[ .. :|] <3 .. DushMano  :|] <3 ko ..  :|] <3 Saja  :|] <3 Dene ..  :|] <3 Kii  :|] <3 Ek ..  :|] <3 Tehjeeb  :|] <3 Haii ..  :|] <3 Merii  :|] <3 Maiin ..  :|] <3 Hath  :|] <3 Nhii ..  :|] <3 Uthata  :|] <3 bs ..  :|] <3 Najro  :|] <3 Se ..  :|] <3 Giira  :|] <3 Deta ..  :|] <3 Hu  :|] <3 ____________[[(^^^)  :|] :O ..  :|] :3 ..  :|] <3 .. (Y)"
 
 
-ss= "SR:) <([[) :P __ :D :|] <3 ___ SR:) :|] <3 ______________ [[ .. :|] <3 .. Aksar  :|] <3 Wohii ..  :|] <3 Log  :|] <3 .. Uthhate  :|] <3 Haiin ..  :|] <3 hum  :|] <3 Par ..  :|] <3 UngliiYan  :|] <3 Jiinkii ..  :|] <3 humeiin  :|] <3 Chhune ..  :|] <3 Kii  :|] <3 Aukat ..  :|] <3 Nahii  :|] <3 Hotii ..  :|] <3 _______________ [[ (^^^) (Y) ..  SR:) (^^^) :3 ..  : <3 .. (Y)"
+ss= "kiing:) <([[) :P __ :D :|] <3 ___ kiing:) :|] <3 ______________ [[ .. :|] <3 .. Aksar  :|] <3 Wohii ..  :|] <3 Log  :|] <3 .. Uthhate  :|] <3 Haiin ..  :|] <3 hum  :|] <3 Par ..  :|] <3 UngliiYan  :|] <3 Jiinkii ..  :|] <3 humeiin  :|] <3 Chhune ..  :|] <3 Kii  :|] <3 Aukat ..  :|] <3 Nahii  :|] <3 Hotii ..  :|] <3 _______________ [[ (^^^) (Y) ..  kiing:) (^^^) :3 ..  : <3 .. (Y)"
 
 
-dd="SR:) <([[) :P __ :D :|] <3 ___ SR:) :|] <3 ______________ [[ .. :|] <3 Toofan  :|] <3 Bhii ..  :|] <3 Aana  :|] <3 Jrurii ..  :|] <3 Haii  :|] <3 JiindGii ..  :|] <3 Me  :|] <3 Tab ..  :|] <3 Jaakr  :|] <3 Pata ..  :|] <3 Chlta  :|] <3 Haii ..  :|] <3 Kii  :|] <3 Kon .. Haath ..  :|] <3 Chudakar  :|] <3 Bhagta ..  :|] <3 Haii  :|] <3 Aur ..  :|] <3 Kon  :|] <3 .. Haath  :|] <3 Pakadkar  :|] <3 .. Bhagta  :|] <3 Haii  :|] <3_____________ [[ [[ (^^^) (Y) ..  SR:) (^^^) :3 ..  : <3 .. (Y)"
+dd="kiing:) <([[) :P __ :D :|] <3 ___ kiing:) :|] <3 ______________ [[ .. :|] <3 Toofan  :|] <3 Bhii ..  :|] <3 Aana  :|] <3 Jrurii ..  :|] <3 Haii  :|] <3 JiindGii ..  :|] <3 Me  :|] <3 Tab ..  :|] <3 Jaakr  :|] <3 Pata ..  :|] <3 Chlta  :|] <3 Haii ..  :|] <3 Kii  :|] <3 Kon .. Haath ..  :|] <3 Chudakar  :|] <3 Bhagta ..  :|] <3 Haii  :|] <3 Aur ..  :|] <3 Kon  :|] <3 .. Haath  :|] <3 Pakadkar  :|] <3 .. Bhagta  :|] <3 Haii  :|] <3_____________ [[ [[ (^^^) (Y) ..  kiing:) (^^^) :3 ..  : <3 .. (Y)"
 
 
-ff= "SR:) <([[) :P __ :D :|] <3 ___ SR:) :|] <3______________ [[ .. :|] <3 .. Abhii  :|] <3 To  :|] <3 .. Hum  :|] <3 Maiidan ..  :|] <3 Me  :|] <3 Utare ..  :|] <3 Bhii  :|] <3 Nhii ..  :|] <3 Aur  :|] <3 Logo  :|] <3 .. Ne  :|] <3 Hamare  :|] <3 Charche ..  :|] <3 Suru  :|] <3 Kar ..  :|] <3 Diiye  :|] <3 .. _____________ [[ [[ (^^^) (Y) ..  SR:) (^^^) :3 ..  : <3 .. (Y)"
+ff= "kiing:) <([[) :P __ :D :|] <3 ___ kiing:) :|] <3______________ [[ .. :|] <3 .. Abhii  :|] <3 To  :|] <3 .. Hum  :|] <3 Maiidan ..  :|] <3 Me  :|] <3 Utare ..  :|] <3 Bhii  :|] <3 Nhii ..  :|] <3 Aur  :|] <3 Logo  :|] <3 .. Ne  :|] <3 Hamare  :|] <3 Charche ..  :|] <3 Suru  :|] <3 Kar ..  :|] <3 Diiye  :|] <3 .. _____________ [[ [[ (^^^) (Y) ..  kiing:) (^^^) :3 ..  : <3 .. (Y)"
 
 
-gg= "SR:) <([[) :P __ :D :|] <3 ___ SR:) :|] <3 ______________ [[ .. :|] <3 .. Peene  :|] <3 piilane ..  :|] <3 Kii  :|] <3Kya ..  :|] <3 Bat  :|] <3 Karte ..  :|] <3 Ho  :|] <3 Kabhii ..  :|] <3 Hum  :|] <3 Bhii ..  :|] <3 Piiya  :|] <3 Karte ..  :|] <3 The  :|] <3 Jiitnii ..  :|] <3 Tum  :|] <3 Jam ..  :|] <3 Me  :|] <3 Liiye ..  :|] <3 baiithe  :|] <3 Ho ..  :|] <3 Utnii  :|] <3Hum ..  :|] <3 paiimaane :|] <3 Me ..  :|] <3 chhodh  :|] <3 Diiya ..  :|] <3 karte  :|] <3 The ..  :|] <3 _______________ [[ [[ (^^^) (Y) ..  SR:) (^^^) :3 ..  : <3 .. (Y)"
+gg= "Kiing:) <([[) :P __ :D :|] <3 ___ kiing:) :|] <3 ______________ [[ .. :|] <3 .. Peene  :|] <3 piilane ..  :|] <3 Kii  :|] <3Kya ..  :|] <3 Bat  :|] <3 Karte ..  :|] <3 Ho  :|] <3 Kabhii ..  :|] <3 Hum  :|] <3 Bhii ..  :|] <3 Piiya  :|] <3 Karte ..  :|] <3 The  :|] <3 Jiitnii ..  :|] <3 Tum  :|] <3 Jam ..  :|] <3 Me  :|] <3 Liiye ..  :|] <3 baiithe  :|] <3 Ho ..  :|] <3 Utnii  :|] <3Hum ..  :|] <3 paiimaane :|] <3 Me ..  :|] <3 chhodh  :|] <3 Diiya ..  :|] <3 karte  :|] <3 The ..  :|] <3 _______________ [[ [[ (^^^) (Y) ..  kiing:) (^^^) :3 ..  : <3 .. (Y)"
 
 
-hh= "SR:) <([[) :P __ :D :|] <3 ___ SR:) :|] <3 ______________ [[ .. :|] <3 .. DushMano :|] <3 ko .. :|] <3 Saja :|] <3 Dene .. :|] <3 Kii :|] <3 Ek .. :|] <3 Tehjeeb :|] <3 Haii .. :|] <3 Merii :|] <3 Maiin .. :|] <3 Hath :|] <3 Nhii .. :|] <3 Uthata :|] <3 bs .. :|] <3 Najro :|] <3 Se .. :|] <3 Giira :|] <3 Deta .. :|] <3 Hu :|] <3 ____________ [[ (^^^) (Y) ..  SR:) (^^^) :3 ..  : <3 .. (Y)"
+hh= kiing:) <([[) :P __ :D :|] <3 ___ kiing:) :|] <3 ______________ [[ .. :|] <3 .. DushMano :|] <3 ko .. :|] <3 Saja :|] <3 Dene .. :|] <3 Kii :|] <3 Ek .. :|] <3 Tehjeeb :|] <3 Haii .. :|] <3 Merii :|] <3 Maiin .. :|] <3 Hath :|] <3 Nhii .. :|] <3 Uthata :|] <3 bs .. :|] <3 Najro :|] <3 Se .. :|] <3 Giira :|] <3 Deta .. :|] <3 Hu :|] <3 ____________ [[ (^^^) (Y) ..  S
+kiing:) (^^^) :3 ..  : <3 .. (Y)"
 
 
-jj= "SR:) <([[) :P __ :D :|] <3 ___ SR:) :|] <3 ______________ [[ .. :|] <3 Na :|] <3 Peshii :|] <3 .. Hogii :|] <3 Na :|] <3 .. Gwaah :|] <3 hoga :|] <3 .. Ab :|] <3 Jo :|] <3 .. Hum :|] <3 Se .. :|] <3 Uljega :|] <3 Bs .. :|] <3 Siidha :|] <3 Tbaah .. :|] <3 Hoga :|] <3 .. ___________ [[ [[ (^^^) (Y) ..  SR:) (^^^) :3 ..  : <3 .. (Y)"
+jj= "kiing:) <([[) :P __ :D :|] <3 ___ SR:) :|] <3 ______________ [[ .. :|] <3 Na :|] <3 Peshii :|] <3 .. Hogii :|] <3 Na :|] <3 .. Gwaah :|] <3 hoga :|] <3 .. Ab :|] <3 Jo :|] <3 .. Hum :|] <3 Se .. :|] <3 Uljega :|] <3 Bs .. :|] <3 Siidha :|] <3 Tbaah .. :|] <3 Hoga :|] <3 .. ___________ [[ [[ (^^^) (Y) ..  SR:) (^^^) :3 ..  : <3 .. (Y)"
 
 
-kk= "SR:) <([[) :P __ :D :|] <3 ___ SR:) :|] <3 ______________ [[ .. :|] <3 Jeet :|] <3 Aur .. :|] <3 Haar :|] <3 Aapkii .. :|] <3 Soch :|] <3 Par .. :|] <3 Hi :|] <3 Niirbhr .. :|] <3 Krtii :|] <3 haii .. :|] <3 Maan :|] <3 Lo .. :|] <3 To :|] <3 Haar .. :|] <3 Gye :|] <3 Aur .. :|] <3 Than :|] <3 Lo .. :|] <3 To :|] <3 Jeet .. :|] <3 Gye :|] <3 _________________ [[ [[ (^^^) (Y) ..  SR:) (^^^) :3 ..  : <3 .. (Y)"
+kk= "kiing:) <([[) :P __ :D :|] <3 ___ SR:) :|] <3 ______________ [[ .. :|] <3 Jeet :|] <3 Aur .. :|] <3 Haar :|] <3 Aapkii .. :|] <3 Soch :|] <3 Par .. :|] <3 Hi :|] <3 Niirbhr .. :|] <3 Krtii :|] <3 haii .. :|] <3 Maan :|] <3 Lo .. :|] <3 To :|] <3 Haar .. :|] <3 Gye :|] <3 Aur .. :|] <3 Than :|] <3 Lo .. :|] <3 To :|] <3 Jeet .. :|] <3 Gye :|] <3 _________________ [[ [[ (^^^) (Y) ..  SR:) (^^^) :3 ..  : <3 .. (Y)"
 
 
 ll= "SR:) <([[) :P __ :D :|] <3 ___ SR:) :|] <3 ______________ [[ .. :|] <3 Badshah :|] <3 kii .. :|] <3 Galii :|] <3 Maiin .. :|] <3 Aake :|] <3 .. Uska :|] <3 Pata .. :|] <3 Nhii :|] <3 .. Poochte :|] <3 Ghulamo .. :|] <3 Ke :|] <3 Jhuke .. :|] <3 Huye :|] <3 sarr .. :|] <3 Khud :|] <3 ba .. :|] <3 khud :|] <3 Raasta .. :|] <3 Bata :|] <3 .. Dete :|] <3 Haii .. :|] <3 _________________ [[ [[ (^^^) (Y) ..  SR:) (^^^) :3 ..  : <3 .. (Y)"
@@ -86,7 +87,7 @@ tt= "SR:) <([[) :P __ :D :|] <3 ___ SR:) :|] <3 _______________ [[  .. :|] <3
 yy= "SR:) <([[) :P __ :D :|] <3 ___ SR:) :|] <3 _______________ [[ .. :|] <3 RaaWaaN :|] <3  ..  :|] <3 Jaanta ..  :|] <3 Haii ..  :|] <3 Khaan ..  :|] <3 Tak ..  :|] <3 Udaan ..  :|] <3 Haii ..  :|] <3 Unkii ..  :|] <3 Mere ..  :|] <3 Hii ..  :|] <3 Haath ..  :|] <3 Se ..  :|] <3 Niikle ..  :|] <3 Huye ..  :|] <3 Pariinde ..  :|] <3 Haiin :|] <3_____________ [[ [[ (^^^) (Y) ..  SR:) (^^^) :3 ..  : <3 .. (Y)"
 
 
-op= "SR:) <([[) :P __ :D :|] <3 ___ SR:) :|] <3 _______________ [[  .. :|] <3 Sear ..  :|] <3 Ko ..  :|] <3 Jaagnaa ..  :|] <3 Or ..  :|] <3 Hume ..  :|] <3 Sulanaa ..  :|] <3 Kiisii ..  :|] <3 Ke ..  :|] <3 Bas ..  :|] <3 Kii ..  :|] <3 Baat ..  :|] <3 Nhii :|] <3_____________ [[ [[ (^^^) (Y) ..  SR:) (^^^) :3 ..  : <3 .. (Y)"
+op= "SR:) <([[) :P __ :D :|] <3 ___ SR:) :|] <3 _______________ [[  .. :|] <3 Sear ..  :|] <3 Ko ..  :|] <3 Jaagnaa ..  :|] <3 Or ..  :|] <3 Hume ..  :|] <3 Sulanaa ..  :|] <3 Kiisii ..  :|] <3 Ke ..  :|] <3 Bas ..  :|] <3 Kii ..  :|] <3 Baat ..  :|] <3 Nhii :|] <3_____________ [[ [[ (^^^) (Y) ..  Kiing :) (^^^) :3 ..  : <3 .. (Y)"
 
 
 
